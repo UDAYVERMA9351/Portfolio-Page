@@ -1,0 +1,60 @@
+1. Engineering drawing ===============
+-----------------------------------------------------------------------------------------
+Engineering Drawing
+
+What is Engineering Drawing?
+Engineering drawing is a visual representation using lines, shapes, and symbols to communicate 
+detailed information about the design, construction, and operation of an object or system in engineering.
+
+What I provide
+- Design and create technical drawings that represent the form, structure, and functionality of a product or system.
+- Create accurate and detailed drawings with the help of drafting tools or CAD software.
+- Maintain records of drawings for future reference.
+- continuously improve drawing processes by incorporating new technologies and best practices.
+
+2. Data Handling =========================== (<i class="fa-sharp fa-solid fa-database"></i>)
+-------------------------------------------------------------------------------------------
+Data Handling 
+
+What is Data Handling?
+
+Data handling involves managing, organizing, analyzing, and interpreting data to extract valuable insights and support decision-making processes.
+
+What I provide
+
+- Collecting data from various sources, such as surveys, databases, or sensors.
+
+- Presenting data through visualizations, reports, or dashboards.
+
+- Ensuring data security and privacy by implementing appropriate measures.
+
+- Continuously monitoring and updating data to keep it current and relevant.
+
+3. MS Office Work ============================= (<i class="fa-solid fa-presentation-screen"></i>)
+------------------------------------------------------------------------------------------------
+MS Office Work 
+
+What is MS offce Work?
+MS Office work involves tasks like creating documents, managing spreadsheets, designing presentations, organizing emails, and analyzing data using Microsoft Office applications.
+
+What I provide
+- Creating and editing documents in Microsoft Word.
+- Managing data and performing calculations in Microsoft Excel.
+- Designing presentations with Microsoft PowerPoint.
+- Managing emails, calendars, and tasks in Microsoft Outlook.
+
+4. Web Development ============================== (<i class="fa-sharp fa-solid fa-code"></i>)
+Web Development 
+
+What is Web Development
+Web development is the process of creating websites and web applications using coding languages and programming techniques for online functionality.
+
+What I provide
+A web developer is responsible for:
+
+- Building websites and web applications using coding languages like HTML, CSS, and JavaScript.
+- Designing user interfaces and implementing responsive layouts.
+- Developing server-side functionality using programming languages like PHP, Python, or JavaScript.
+- Integrating databases and managing data for web applications.
+- Deploying websites to web servers and maintaining their performance and functionality.
+- Collaborating with designers, content creators, and clients to fulfill project requirements.
